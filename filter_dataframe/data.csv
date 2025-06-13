@@ -1,0 +1,31 @@
+operation,property_type,place_with_parent_names,lat-lon,price,currency,price_aprox_local_currency,price_aprox_usd,surface_total_in_m2,surface_covered_in_m2,price_usd_per_m2,price_per_m2,floor,rooms,expenses,properati_url
+sell,apartment,|Argentina|Capital Federal|Palermo|,"-34.000,-58.000",306674,USD,16804040,365238,39,45,889,2541,1.0,2,,http://example.com/property_0
+sell,apartment,|Argentina|Capital Federal|Palermo|,"-34.001,-58.001",87251,USD,12305452,198192,104,24,2372,1950,3.0,4,,http://example.com/property_1
+sell,apartment,|Argentina|Capital Federal|Palermo|,"-34.002,-58.002",388107,USD,13089052,61534,43,107,1699,2684,2.0,3,,http://example.com/property_2
+sell,apartment,|Argentina|Capital Federal|Palermo|,"-34.003,-58.003",161427,NGN,10962865,348628,117,40,2298,2073,1.0,1,,http://example.com/property_3
+sell,apartment,|Argentina|Capital Federal|Palermo|,"-34.004,-58.004",219669,NGN,13572207,102224,72,67,1550,1767,,2,,http://example.com/property_4
+sell,apartment,|Argentina|Capital Federal|Palermo|,"-34.005,-58.005",117101,NGN,14462449,364849,106,71,1879,1700,,3,,http://example.com/property_5
+sell,apartment,|Argentina|Capital Federal|Palermo|,"-34.006,-58.006",330279,USD,17032384,241445,83,25,2655,1839,,4,,http://example.com/property_6
+sell,apartment,|Argentina|Capital Federal|Palermo|,"-34.007,-58.007",346175,USD,17945835,358928,51,98,2984,966,1.0,3,,http://example.com/property_7
+sell,apartment,|Argentina|Capital Federal|Palermo|,"-34.008,-58.008",385592,USD,18671896,83334,51,81,2948,1884,3.0,4,,http://example.com/property_8
+sell,apartment,|Argentina|Capital Federal|Palermo|,"-34.009,-58.009",289372,USD,13176727,69170,65,37,2260,1324,2.0,2,,http://example.com/property_9
+sell,apartment,|Argentina|Capital Federal|Palermo|,"-34.010,-58.010",60220,EURO,11995584,73604,43,109,2378,2434,2.0,3,,http://example.com/property_10
+sell,apartment,|Argentina|Capital Federal|Palermo|,"-34.011,-58.011",92331,EURO,16637206,76082,46,20,1470,929,1.0,3,,http://example.com/property_11
+sell,apartment,|Argentina|Capital Federal|Palermo|,"-34.012,-58.012",243565,EURO,14835036,388532,98,65,1769,1825,2.0,4,,http://example.com/property_12
+sell,apartment,|Argentina|Capital Federal|Palermo|,"-34.013,-58.013",85556,USD,12931891,385264,43,106,2522,1746,2.0,3,,http://example.com/property_13
+sell,apartment,|Argentina|Capital Federal|Palermo|,"-34.014,-58.014",55955,USD,16118720,367438,34,24,1569,1572,,4,,http://example.com/property_14
+sell,apartment,|Argentina|Capital Federal|Palermo|,"-34.015,-58.015",208748,RAM,15379640,159570,95,25,2179,2035,3.0,2,,http://example.com/property_15
+sell,apartment,|Argentina|Capital Federal|Palermo|,"-34.016,-58.016",116992,RAM,14678025,147249,76,84,2774,1141,3.0,1,,http://example.com/property_16
+sell,apartment,|Argentina|Pablo|Palermo|,"-34.017,-58.017",321939,USD,17840858,377291,85,27,2828,2746,2.0,1,,http://example.com/property_17
+sell,apartment,|Argentina|Cargo Federal|Palermo|,"-34.018,-58.018",363725,USD,19350769,228539,36,45,1649,1915,3.0,2,,http://example.com/property_18
+sell,apartment,|Argentina|Capital Federal|Palermo|,"-34.019,-58.019",223040,RAM,17369577,284393,43,93,1518,2290,3.0,2,,http://example.com/property_19
+sell,apartment,|Argentina|Capital Federal|Palermo|,"-34.020,-58.020",343114,USD,18224467,321908,36,45,1187,2932,2.0,1,,http://example.com/property_20
+sell,apartment,|Argentina|Capital Federal|Palermo|,"-34.021,-58.021",129122,USD,17059350,284156,89,37,1926,1820,1.0,4,,http://example.com/property_21
+sell,apartment,|Argentina|Capital Federal|Palermo|,"-34.022,-58.022",257069,USD,12748894,144150,73,54,2763,1585,2.0,1,,http://example.com/property_22
+sell,apartment,|Argentina|Capital Federal|Palermo|,"-34.023,-58.023",185124,USD,16029145,101782,40,82,1266,954,,3,,http://example.com/property_23
+sell,apartment,|Argentina|Capital Federal|Palermo|,"-34.024,-58.024",344140,USD,13522741,222687,94,89,1942,1160,,2,,http://example.com/property_24
+sell,apartment,|Argentina|Capital Federal|Palermo|,"-34.025,-58.025",382843,USD,10855134,372680,118,45,2495,2341,3.0,3,,http://example.com/property_25
+sell,apartment,|Argentina|Capital Federal|Palermo|,"-34.026,-58.026",312580,USD,16166027,235039,46,108,1556,2898,1.0,3,,http://example.com/property_26
+sell,apartment,|Argentina|Capital Federal|Palermo|,"-34.027,-58.027",343052,USD,12755884,231682,119,43,2611,2632,2.0,3,,http://example.com/property_27
+sell,apartment,|Argentina|Capital Federal|Palermo|,"-34.028,-58.028",235807,USD,14638156,255949,119,69,1890,1352,3.0,3,,http://example.com/property_28
+sell,apartment,|Argentina|Capital Federal|Palermo|,"-34.029,-58.029",167223,USD,13843169,205182,60,97,2037,2355,,1,,http://example.com/property_29

@@ -1,0 +1,52 @@
+id,name,category,price,stock_status
+1,Wireless Mouse,Electronics,usd25.66
+2,LED Monitor,Electronics,usd199.49,In Stock
+3,,Electronics,usd89.99,Out of Stock
+4,Office Chair,Furniture,usd150.00,In Stock
+5,Standing Desk,Furniture,,Out of Stock
+6,Notebook Stationery,usd2.49,In Stock
+7,USB-C Cable,Electronics,usd7.99,
+8,Laptop Backpack,Accessories,usd34.95,In Stock
+9,,Accessories,,Out of Stock
+10,Bluetooth Speaker,Electronics,usd45.00,In Stock
+11,Desk Lamp,Furniture,usd19.99,In Stock
+12,Wireless Charger,Electronics,usd15.50,
+13,Gaming Mouse Pad,Accessories,,In Stock
+14,Noise Cancelling Headphones,Electronics,usd199.00,In Stock
+15,Webcam 1080p,Electronics,usd49.99,Out of Stock
+16,,Electronics,,Out of Stock
+17,Ergonomic Keyboard,Electronics,usd59.90,In Stock
+18,Pen Holder,Accessories,usd3.95,In Stock
+19,Whiteboard Marker,Stationery,usd1.49,In Stock
+20,Laptop Stand,Electronics,usd28.00,In Stock
+21,Coffee Mug,Kitchen,usd5.00,In Stock
+22,,Kitchen,usd3.75,Out of Stock
+23,Monitor Arm,Electronics,,Out of Stock
+24,Extension Cord,Electronics,usd12.95,In Stock
+25,Projector,Electronics,usd349.00,In Stock
+26,Notebook,Furniture,usd2.00,In Stock
+27,Ink Cartridge,Stationery,,Out of Stock
+28,Cable Organizer,Accessories,usd4.20,
+29,Smart Watch,Electronics,usd120.00,In Stock
+30,Water Bottle,Kitchen,,In Stock
+31,Desk Organizer,Furniture,usd15.75,In Stock
+32,Sticky Notes,Stationery,usd1.99,In Stock
+33,LED Light Strip,Electronics,usd13.49,Out of Stock
+34,Tablet Stand,Electronics,,Out of Stock
+35,,Stationery,usd0.99,In Stock
+36,Paper Ream,Stationery,usd6.00,In Stock
+37,Mouse Bungee,Accessories,usd9.99,In Stock
+38,Air Purifier,Electronics,usd99.99,Out of Stock
+39,Power Bank,Electronics,usd29.99,In Stock
+40,,Electronics,usd19.99,In Stock
+41,Fax Machine,Electronics,,Out of Stock
+42,HDMI Splitter,Electronics,usd14.75,In Stock
+43,Cork Board,Furniture,usd22.00,In Stock
+44,Storage Box,Furniture,usd11.00,In Stock
+45,Key Holder,Accessories,,In Stock
+46,Wall Clock,Furniture,usd18.49,In Stock
+47,Cleaning Wipes,Accessories,usd3.50,In Stock
+48,Flash Drive 64GB,Electronics,usd9.95,Out of Stock
+49,Laser Pointer,Electronics,,In Stock
+50,Laptop Cooling Pad,Electronics,usd23.00,In Stock
+
